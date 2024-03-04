@@ -12,7 +12,15 @@ update: 04.03.2024
 ## Для повседневной работы
 - Профессиональный монитор [ASUS](https://sumbar-computer.com/product/professionalnyi-monitor-asus-proart-27-pa279crv-3870/);
 - Яблочная клавиатура [Apple Magic Keyboard](https://almapro.com.tm/product/magic-keyboard-with-touch-id);
+- Кресло [Herman Miller Aeron](https://cishop.ru/catalog/kresla/kresla-rabochie/kreslo-herman-miller-aeron-new/);
+- Стол с регулируемой высотой [Shapdesk](https://shapdesk.com/);
 
 ## Развлекухи
 - Умная колонка [Яндекс Станция Миди](https://ashgabatmarket.com/product/умная-колонка-яндекс-станция-миди/);
 - Портативная колонка [JBL PartyBox On-The-Go](https://almapro.com.tm/product/jbl-on-the-go-2mic);
+
+## Спортивное
+- Электровелосипед;
+
+## Мужское
+- Бальзам после бритья [PRORASO](https://опаснаябритва.рф/product/balzam-posle-britya-proraso-2);
