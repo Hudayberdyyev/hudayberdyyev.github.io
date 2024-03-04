@@ -1,4 +1,18 @@
+---
+layout: page
+title: Вишлист
+update: 04.03.2024
+---
+
 > Вишлист (от англ. Wish List — список желаний) — термин, который появился благодаря западным 
 учениям о материализации и визуализации желаний и означает список, в котором прописаны все 
 желания человека, начиная от мелочей и необходимых вещей и заканчивая такими глобальными 
 мечтами как шикарный дом, богатство, счастье и т. п.
+
+## Для повседневной работы
+- Профессиональный монитор [ASUS](https://sumbar-computer.com/product/professionalnyi-monitor-asus-proart-27-pa279crv-3870/);
+- Яблочная клавиатура [Apple Magic Keyboard](https://almapro.com.tm/product/magic-keyboard-with-touch-id);
+
+## Развлекухи
+- Умная колонка [Яндекс Станция Миди](https://ashgabatmarket.com/product/умная-колонка-яндекс-станция-миди/);
+- Портативная колонка [JBL PartyBox On-The-Go](https://almapro.com.tm/product/jbl-on-the-go-2mic);
