@@ -12,6 +12,7 @@ update: 04.03.2024
 ## Для повседневной работы
 - Профессиональный монитор [ASUS](https://sumbar-computer.com/product/professionalnyi-monitor-asus-proart-27-pa279crv-3870/);
 - Яблочная клавиатура [Apple Magic Keyboard](https://almapro.com.tm/product/magic-keyboard-with-touch-id);
+- Клавиатура [HHKB Classic](https://www.pfuemea.com/en-gb/dr_product/hhkb-professional-classic-white-45g-tkl-printed-keycaps-pd-kb401w);
 - Кресло [Herman Miller Aeron](https://cishop.ru/catalog/kresla/kresla-rabochie/kreslo-herman-miller-aeron-new/);
 - Стол с регулируемой высотой [Shapdesk](https://shapdesk.com/);
 
