@@ -11,10 +11,10 @@ update: 04.03.2024
 
 ## Для повседневной работы
 - Профессиональный монитор [ASUS](https://sumbar-computer.com/product/professionalnyi-monitor-asus-proart-27-pa279crv-3870/);
-- Монитор [Lenovo ThinkVision T27p-30](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/office/63a9gar1us?orgRef=https%253A%252F%252Fyandex.ru%252F);
+- <strike>Монитор [Lenovo ThinkVision T27p-30](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/office/63a9gar1us?orgRef=https%253A%252F%252Fyandex.ru%252F)</strike>;
 - Яблочная клавиатура [Apple Magic Keyboard](https://almapro.com.tm/product/magic-keyboard-with-touch-id);
 - Клавиатура [HHKB Classic](https://www.pfuemea.com/en-gb/dr_product/hhkb-professional-classic-white-45g-tkl-printed-keycaps-pd-kb401w);
-- Мышка [Logitech MX MASTER 3S FOR MAC](https://www.logitech.com/en-eu/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html);
+- <strike>Мышка [Logitech MX MASTER 3S FOR MAC](https://www.logitech.com/en-eu/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html)</strike>;
 - Кресло [Herman Miller Aeron](https://cishop.ru/catalog/kresla/kresla-rabochie/kreslo-herman-miller-aeron-new/);
 - Стол с регулируемой высотой [Shapdesk](https://shapdesk.com/);
 
