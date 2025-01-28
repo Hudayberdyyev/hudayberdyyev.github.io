@@ -19,7 +19,7 @@ update: 04.03.2024
 
 ## Развлекухи
 - Умная колонка [Яндекс Станция Миди](https://ashgabatmarket.com/product/умная-колонка-яндекс-станция-миди/);
-- Портативная колонка [JBL PartyBox On-The-Go](https://almapro.com.tm/product/jbl-on-the-go-2mic);
+- <strike>Портативная колонка [JBL PartyBox On-The-Go](https://almapro.com.tm/product/jbl-on-the-go-2mic)</strike>;
 
 ## Спортивное
 - Электровелосипед;
