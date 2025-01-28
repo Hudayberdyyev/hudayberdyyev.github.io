@@ -19,7 +19,7 @@ update: 04.03.2024
 
 ## Развлекухи
 - Умная колонка [Яндекс Станция Миди](https://ashgabatmarket.com/product/умная-колонка-яндекс-станция-миди/);
-- <strike>Портативная колонка [JBL PartyBox On-The-Go](https://almapro.com.tm/product/jbl-on-the-go-2mic)</strike>;
+- Беспроводная пати колонка [JBL PartyBox Stage 320](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html);
 
 ## Спортивное
 - Электровелосипед;
@@ -30,3 +30,5 @@ update: 04.03.2024
 ## Яблочная секция
 - <strike>Яблочная клавиатура [Apple Magic Keyboard](https://almapro.com.tm/product/magic-keyboard-with-touch-id)</strike>;
 - Ремешок для Apple Watch [46mm Black Unity Sport Loop - Unity Rhythm](https://www.apple.com/shop/product/MDF54AM/A/46mm-black-unity-sport-loop-unity-rhythm?);
+- <strike>Часы Apple Watch 9 series 45mm</strike>;
+- <strike>Айпонт [iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/)</strike>;
