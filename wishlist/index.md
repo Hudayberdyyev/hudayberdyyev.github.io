@@ -32,3 +32,11 @@ update: 04.03.2024
 - Ремешок для Apple Watch [46mm Black Unity Sport Loop - Unity Rhythm](https://www.apple.com/shop/product/MDF54AM/A/46mm-black-unity-sport-loop-unity-rhythm?);
 - <strike>Часы Apple Watch 9 series 45mm</strike>;
 - <strike>Айпонт [iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/)</strike>;
+
+## Жизненное
+- Навести порядок в личной жизни и завести семью;
+
+## Путешествие
+- Покататься на горналыжном курорте;
+- Прыжок с парашютом;
+- Побывать на гран при Формулы 1 (желательно в Монако);
