@@ -25,7 +25,7 @@ update: 04.03.2024
 - Электровелосипед;
 
 ## Мужское
-- Бальзам после бритья [PRORASO](https://опаснаябритва.рф/product/balzam-posle-britya-proraso-2);
+- <strike>Бальзам после бритья [PRORASO](https://опаснаябритва.рф/product/balzam-posle-britya-proraso-2);</strike>
 
 ## Яблочная секция
 - <strike>Яблочная клавиатура [Apple Magic Keyboard](https://almapro.com.tm/product/magic-keyboard-with-touch-id);</strike>
