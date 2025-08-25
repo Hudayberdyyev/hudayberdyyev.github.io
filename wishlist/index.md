@@ -15,7 +15,6 @@ update: 04.03.2024
 - Клавиатура [HHKB Classic](https://www.pfuemea.com/en-gb/dr_product/hhkb-professional-classic-white-45g-tkl-printed-keycaps-pd-kb401w);
 - <strike>Мышка [Logitech MX MASTER 3S FOR MAC](https://www.logitech.com/en-eu/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html);</strike>
 - Кресло [Herman Miller Aeron](https://cishop.ru/catalog/kresla/kresla-rabochie/kreslo-herman-miller-aeron-new/);
-- Стол с регулируемой высотой [Shapdesk](https://shapdesk.com/);
 
 ## Развлекухи
 - Умная колонка [Яндекс Станция Миди](https://ashgabatmarket.com/product/умная-колонка-яндекс-станция-миди/);
@@ -34,7 +33,7 @@ update: 04.03.2024
 - <strike>Айпонт [iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/);</strike>
 
 ## Жизненное
-- <strike>Навести порядок в личной жизни</strike> и завести семью;
+- <strike>Навести порядок в личной жизни и завести семью;</strike>
 
 ## Путешествие
 - Покататься на горналыжном курорте;
