@@ -22,6 +22,7 @@ update: 04.03.2024
 
 ## Спортивное
 - Электровелосипед;
+- Фитнес-трекер [Whoop 5.0 One with subscription] (https://www.amazon.ie/WHOOP-One-Membership-Personalized-Menstrual/dp/B0DY2VVZWZ);
 
 ## Мужское
 - <strike>Бальзам после бритья [PRORASO](https://опаснаябритва.рф/product/balzam-posle-britya-proraso-2);</strike>
